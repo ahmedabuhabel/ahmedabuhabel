@@ -1,33 +1,73 @@
-# Hi, I’m Ahmed Abuhabel  
-### Flutter Developer | Computer Systems Engineer
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-I am a Flutter developer with a strong focus on building scalable, maintainable mobile applications. I enjoy translating business requirements into clean, performant user experiences and continuously expanding my backend and full-stack capabilities.
+###
 
-- 🔭 Currently working on: **Consultant App**
-- 🌱 Currently learning: **Laravel**
-- 💬 Ask me about: **Flutter, Dart, Java**
-- 📫 Contact: **ahmadabdhaleem@gmail.com**
+<div align="center">
+  <a href="https://wa.me/972592367112" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge"
+      height="25"
+      alt="WhatsApp"
+    />
+  </a>
+  <a href="mailto:ahmadabdhaleem@gmail.com">
+    <img
+      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+      height="25"
+      alt="Email"
+    />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedAbuhabel.AhmedAbuhabel" />
+</div>
+
+###
+
+<h1 align="center">Hey there 👋 I'm Ahmed Abuhabel</h1>
+
+<h3 align="center">Flutter Developer | Computer Systems Engineer</h3>
 
 ---
 
-## Connect with Me
-- WhatsApp: [https://wa.me/972592367112](https://wa.me/972592367112) 
-- LinkedIn: [Ahmed Abuhabel](https://www.linkedin.com/in/ahmad-abuhabel)
-
----
-
-## Languages and Tools
+<h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
- 
+I’m a Flutter developer with a strong focus on building scalable and maintainable mobile applications.
+I enjoy translating business requirements into clean, performant user experiences and continuously
+expanding my backend and full-stack capabilities.
 </p>
+
+- 🔭 Currently working on: <strong>Multi Vendor Medicine Pharmacy App</strong>  
+- 🎓 Currently enrolled in: <strong>Full-Stack Development Bootcamp with Axsos Academy</strong>  
+- 🌱 Currently learning: <strong>HTML, CSS, Python</strong>  
+- 💬 Ask me about: <strong>Flutter, Dart, Java</strong>  
+- 📫 Contact: <strong>ahmadabdhaleem@gmail.com</strong>
+
+---
+
+<h3 align="left">🛠 Languages and Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</div>
 
